@@ -48,14 +48,14 @@ Lively는 2조의 Final Project로 진행한 작업물입니다.
 ## 🔗 나의 작업 파일 경로
 **spring**
 
-- controller : https://github.com/taewoon123/FinalProject/blob/main/src/main/java/com/lively/friend/controller/FriendController.java
-- dao : https://github.com/taewoon123/FinalProject/blob/main/src/main/java/com/lively/friend/dao/FriendDao.java
-- service : https://github.com/taewoon123/FinalProject/blob/main/src/main/java/com/lively/friend/service/FriendService.java
-- mapper(mybatis) : https://github.com/taewoon123/FinalProject/blob/main/src/main/resources/mybatis/mapper/friend-mapper.xml
+- controller : https://github.com/taewoon123/FinalProject/blob/main/FinalProjectLIVELY/src/main/java/com/lively/friend/controller/FriendController.java
+- dao : https://github.com/taewoon123/FinalProject/blob/main/FinalProjectLIVELY/src/main/java/com/lively/friend/dao/FriendDao.java
+- service : https://github.com/taewoon123/FinalProject/blob/main/FinalProjectLIVELY/src/main/java/com/lively/friend/service/FriendService.java
+- mapper(mybatis) : https://github.com/taewoon123/FinalProject/blob/main/FinalProjectLIVELY/src/main/resources/mybatis/mapper/friend-mapper.xml
 
 **jsp**
 
-- 피드목록 : https://github.com/taewoon123/FinalProject/blob/main/src/main/webapp/WEB-INF/views/board/friend/friend-list.jsp
+- 피드목록 : https://github.com/taewoon123/FinalProject/blob/main/FinalProjectLIVELY/src/main/webapp/WEB-INF/views/board/friend/friend-list.jsp
 
 
 
