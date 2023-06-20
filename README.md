@@ -66,56 +66,56 @@ Lively는 2조의 Final Project로 진행한 작업물입니다.
   <summary>친구게시판 피드목록</summary>
   <br />
   <div markdown="1">
-    <image src="https://github.com/taewoon123/FinalProject/blob/main/src/main/webapp/resources/img/FriendList.PNG" />
+    <image src="https://github.com/taewoon123/FinalProject/blob/main/FinalProjectLIVELY/src/main/webapp/resources/img/FriendList.PNG" />
   </div>
 </details>
 <details>
   <summary>친구게시판 이미지슬라이드</summary>
   <br />
   <div markdown="1">
-    <image src="https://github.com/taewoon123/FinalProject/tree/main/FinalProjectLIVELY/src/main/webapp/resources/img/edit3.PNG" />
-    <image src="https://github.com/taewoon123/FinalProject/tree/main/FinalProjectLIVELY/src/main/webapp/resources/img/imgslide2.PNG" />
-    <image src="https://github.com/taewoon123/FinalProject/tree/main/FinalProjectLIVELY/src/main/webapp/resources/img/imgslide3.PNG" />
+    <image src="https://github.com/taewoon123/FinalProject/blob/main/FinalProjectLIVELY/src/main/webapp/resources/img/edit3.PNG" />
+    <image src="https://github.com/taewoon123/FinalProject/blob/main/FinalProjectLIVELY/src/main/webapp/resources/img/imgslide2.PNG" />
+    <image src="https://github.com/taewoon123/FinalProject/blob/main/FinalProjectLIVELY/src/main/webapp/resources/img/imgslide3.PNG" />
   </div>
 </details>
 <details>
   <summary>피드 검색기능</summary>
   <br />
   <div markdown="1">
-    <image src="https://github.com/taewoon123/FinalProject/tree/main/FinalProjectLIVELY/src/main/webapp/resources/img/FriendSearch.PNG" />
-    <image src="https://github.com/taewoon123/FinalProject/tree/main/FinalProjectLIVELY/src/main/webapp/resources/img/FriendSearch2.PNG" />
+    <image src="https://github.com/taewoon123/FinalProject/blob/main/FinalProjectLIVELY/src/main/webapp/resources/img/FriendSearch.PNG" />
+    <image src="https://github.com/taewoon123/FinalProject/blob/main/FinalProjectLIVELY/src/main/webapp/resources/img/FriendSearch2.PNG" />
   </div>
 </details>
 <details>
   <summary>피드 수정</summary>
   <br />
   <div markdown="1">
-    <image src="https://github.com/taewoon123/FinalProject/tree/main/FinalProjectLIVELY/src/main/webapp/resources/img/edit3.PNG" />
-    <image src="https://github.com/taewoon123/FinalProject/tree/main/FinalProjectLIVELY/src/main/webapp/resources/img/edit1.PNG" />
-    <image src="https://github.com/taewoon123/FinalProject/tree/main/FinalProjectLIVELY/src/main/webapp/resources/img/edit2.PNG" />
+    <image src="https://github.com/taewoon123/FinalProject/blob/main/FinalProjectLIVELY/src/main/webapp/resources/img/edit3.PNG" />
+    <image src="https://github.com/taewoon123/FinalProject/blob/main/FinalProjectLIVELY/src/main/webapp/resources/img/edit1.PNG" />
+    <image src="https://github.com/taewoon123/FinalProject/blob/main/FinalProjectLIVELY/src/main/webapp/resources/img/edit2.PNG" />
   </div>
 </details>
 <details>
   <summary>피드 모집마감</summary>
   <br />
   <div markdown="1">
-    <image src="https://github.com/taewoon123/FinalProject/tree/main/FinalProjectLIVELY/src/main/webapp/resources/img/END.PNG" />
+    <image src="https://github.com/taewoon123/FinalProject/blob/main/FinalProjectLIVELY/src/main/webapp/resources/img/END.PNG" />
   </div>
 </details>
 <details>
   <summary>피드 모집 중만 보기</summary>
   <br />
   <div markdown="1">
-    <image src="https://github.com/taewoon123/FinalProject/tree/main/FinalProjectLIVELY/src/main/webapp/resources/img/ING1.PNG" />
-    <image src="https://github.com/taewoon123/FinalProject/tree/main/FinalProjectLIVELY/src/main/webapp/resources/img/ING2.PNG" />
+    <image src="https://github.com/taewoon123/FinalProject/blob/main/FinalProjectLIVELY/src/main/webapp/resources/img/ING1.PNG" />
+    <image src="https://github.com/taewoon123/FinalProject/blob/main/FinalProjectLIVELY/src/main/webapp/resources/img/ING2.PNG" />
   </div>
 </details>
 <details>
   <summary>피드 내용 더보기(more)</summary>
   <br />
   <div markdown="1">
-    <image src="https://github.com/taewoon123/FinalProject/tree/main/FinalProjectLIVELY/src/main/webapp/resources/img/more1.PNG" />
-    <image src="https://github.com/taewoon123/FinalProject/tree/main/FinalProjectLIVELY/src/main/webapp/resources/img/more2.PNG" />
+    <image src="https://github.com/taewoon123/FinalProject/blob/main/FinalProjectLIVELY/src/main/webapp/resources/img/more1.PNG" />
+    <image src="https://github.com/taewoon123/FinalProject/blob/main/FinalProjectLIVELY/src/main/webapp/resources/img/more2.PNG" />
   </div>
 </details>
 
