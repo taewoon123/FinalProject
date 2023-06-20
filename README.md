@@ -1,9 +1,9 @@
 ## ⭐ Lively
-Lively는 2조의 Final Project로 진행한 작업물입니다.
-2023.04.03 ~ 2023.06.09 기간동안 진행하였으며, 6명의 팀원들과 함께 하였습니다.
+![img](https://github.com/taewoon123/FinalProject/blob/main/FinalProjectLIVELY/src/main/webapp/resources/img/Lively.png)
 
-프로젝트 내용이 팀원들 부분 포함 전체로 올라와 있어,
-프로젝트 전체 설명 및 제가 작업한 작업물 경로와 설명을 해보도록 하겠습니다.
+- **Team Lively**
+- 프로젝트 기간 : `2023.04.03` ~ `2023.06.09`
+
 
 
 &nbsp;
@@ -124,5 +124,6 @@ Lively는 위치기반 실시간 API를 제공하고 있으며, Lively의 목표
     <image src="https://github.com/taewoon123/FinalProject/blob/main/FinalProjectLIVELY/src/main/webapp/resources/img/more2.PNG" />
   </div>
 </details>
+
 
 
