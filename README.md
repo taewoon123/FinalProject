@@ -35,15 +35,15 @@ Lively는 위치 기반 실시간 API를 제공하고 있으며, Lively의 목�
 &nbsp;
 
 ## 🛠 사용기술 및 개발환경
-- STS :  3
+- STS
 - Apache Tomcat 9.0
 - Mybatis
 - maven
-- Java : 11
-- Spring framework : 5.3.22
-- Oracle : 11g
+- Java
+- Spring framework
+- Oracle
 - jQuery
-- Visual Studio Code : 1.78
+- Visual Studio Code
 - HTML5
 - CSS
 - javascript
